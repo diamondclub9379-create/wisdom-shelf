@@ -1,6 +1,7 @@
 ---
 title: "Feeling Is the Secret: Summary & How to Apply It Tonight"
 description: "A complete summary of Neville Goddard's Feeling Is the Secret — his most concise book on manifestation. Learn the technique and practice it before bed tonight."
+featuredImage: "/images/blog/feeling-is-the-secret-summary.png"
 date: 2026-03-12
 categories:
   - Self-Help

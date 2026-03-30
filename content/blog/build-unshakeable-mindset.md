@@ -1,6 +1,7 @@
 ---
 title: "How to Build an Unshakeable Mindset: Lessons from 5 Classic Books"
 description: "Build mental toughness and an unshakeable mindset using wisdom from Marcus Aurelius, James Allen, Neville Goddard, Epictetus, and Sun Tzu. Practical exercises included."
+featuredImage: "/images/blog/build-unshakeable-mindset.png"
 date: 2026-02-08
 categories:
   - Self-Help

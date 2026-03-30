@@ -1,6 +1,7 @@
 ---
 title: "5 Neville Goddard Techniques That Can Change Your Life (Beginner's Guide)"
 description: "Learn the most powerful Neville Goddard manifestation techniques — from SATS to revision — explained simply for beginners with step-by-step instructions."
+featuredImage: "/images/blog/neville-goddard-techniques-beginners-guide.png"
 date: 2026-03-28
 categories:
   - Self-Help

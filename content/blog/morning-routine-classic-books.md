@@ -1,6 +1,7 @@
 ---
 title: "Build the Perfect Morning Routine (Inspired by Classic Self-Help Books)"
 description: "Design a powerful morning routine using wisdom from Marcus Aurelius, Neville Goddard, Benjamin Franklin, and other classic authors. Free downloadable checklist."
+featuredImage: "/images/blog/morning-routine-classic-books.png"
 date: 2026-02-20
 categories:
   - Self-Help

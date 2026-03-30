@@ -1,6 +1,7 @@
 ---
 title: "20 Powerful Neville Goddard Quotes That Will Change How You Think"
 description: "The most impactful Neville Goddard quotes on imagination, manifestation, and consciousness — explained with context from his books."
+featuredImage: "/images/blog/neville-goddard-quotes.png"
 date: 2026-03-18
 categories:
   - Self-Help

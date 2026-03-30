@@ -1,6 +1,7 @@
 ---
 title: "How to Practice Neville Goddard's Revision Technique (Step-by-Step)"
 description: "Learn Neville Goddard's powerful revision technique — how to mentally rewrite past events to change your future. Complete step-by-step guide with examples."
+featuredImage: "/images/blog/revision-technique-neville-goddard.png"
 date: 2026-03-06
 categories:
   - Self-Help

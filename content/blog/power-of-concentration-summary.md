@@ -1,6 +1,7 @@
 ---
 title: "The Power of Concentration: Summary & 5 Exercises to Sharpen Your Focus"
 description: "A summary of Theron Q. Dumont's The Power of Concentration with practical exercises you can start today. Build unshakeable focus in the age of distraction."
+featuredImage: "/images/blog/power-of-concentration-summary.png"
 date: 2026-03-14
 categories:
   - Self-Help

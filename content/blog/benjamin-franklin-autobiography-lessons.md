@@ -1,6 +1,7 @@
 ---
 title: "Benjamin Franklin's Autobiography: 7 Lessons for Success"
 description: "Key lessons from Benjamin Franklin's Autobiography — the ultimate self-made success story. Practical wisdom on habits, virtue, and building wealth from nothing."
+featuredImage: "/images/blog/benjamin-franklin-autobiography-lessons.png"
 date: 2026-02-24
 categories:
   - Business

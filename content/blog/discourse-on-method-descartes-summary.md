@@ -1,6 +1,7 @@
 ---
 title: "Descartes' Discourse on the Method: Summary & Why It Still Matters"
 description: "A clear summary of René Descartes' Discourse on the Method — the book that launched modern philosophy with 'I think, therefore I am.' Key ideas explained."
+featuredImage: "/images/blog/discourse-on-method-descartes-summary.png"
 date: 2026-02-06
 categories:
   - Philosophy

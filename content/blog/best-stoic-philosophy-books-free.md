@@ -1,6 +1,7 @@
 ---
 title: "Best Books on Stoic Philosophy (All Free Downloads)"
 description: "The best Stoic philosophy books available for free — from Meditations to The Enchiridion. Download free PDF and EPUB versions of these life-changing classics."
+featuredImage: "/images/blog/best-stoic-philosophy-books-free.png"
 date: 2026-02-16
 categories:
   - Philosophy

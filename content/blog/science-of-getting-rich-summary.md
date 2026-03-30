@@ -1,6 +1,7 @@
 ---
 title: "The Science of Getting Rich: Summary & Key Principles"
 description: "A detailed summary of Wallace D. Wattles' The Science of Getting Rich — the book that inspired The Secret. Learn the key principles and how to apply them."
+featuredImage: "/images/blog/science-of-getting-rich-summary.png"
 date: 2026-03-24
 categories:
   - Self-Help

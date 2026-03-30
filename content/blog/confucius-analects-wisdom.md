@@ -1,6 +1,7 @@
 ---
 title: "Confucius and The Analects: Ancient Wisdom for Modern Life"
 description: "Key teachings from Confucius' Analects — practical wisdom on character, relationships, and leadership that remains relevant 2,500 years later."
+featuredImage: "/images/blog/confucius-analects-wisdom.png"
 date: 2026-02-22
 categories:
   - Philosophy

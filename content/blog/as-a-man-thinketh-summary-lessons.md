@@ -1,6 +1,7 @@
 ---
 title: "As a Man Thinketh: Summary & 7 Life-Changing Lessons"
 description: "A detailed summary of James Allen's As a Man Thinketh with 7 powerful lessons you can apply today. Includes key quotes and practical takeaways."
+featuredImage: "/images/blog/as-a-man-thinketh-summary-lessons.png"
 date: 2026-03-30
 categories:
   - Self-Help

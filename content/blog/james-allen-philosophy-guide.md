@@ -1,6 +1,7 @@
 ---
 title: "James Allen's Philosophy: A Complete Guide to His Best Books"
 description: "Explore James Allen's complete philosophy through his best books — As a Man Thinketh, The Way of Peace, and The Heavenly Life. A guide to the father of modern self-help."
+featuredImage: "/images/blog/james-allen-philosophy-guide.png"
 date: 2026-02-10
 categories:
   - Self-Help

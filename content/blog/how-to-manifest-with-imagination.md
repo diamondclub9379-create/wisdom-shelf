@@ -1,6 +1,7 @@
 ---
 title: "How to Use Imagination to Manifest Your Goals (Classic Book Methods)"
 description: "Learn how to use the power of imagination to manifest your goals — using proven methods from Neville Goddard, Wallace Wattles, and Florence Scovel Shinn."
+featuredImage: "/images/blog/how-to-manifest-with-imagination.png"
 date: 2026-02-28
 categories:
   - Self-Help

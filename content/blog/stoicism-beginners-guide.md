@@ -1,6 +1,7 @@
 ---
 title: "Stoicism for Beginners: Practical Lessons from Marcus Aurelius & Epictetus"
 description: "A beginner-friendly introduction to Stoic philosophy with practical exercises from Meditations and The Enchiridion. Start practicing Stoicism today."
+featuredImage: "/images/blog/stoicism-beginners-guide.png"
 date: 2026-03-16
 categories:
   - Philosophy

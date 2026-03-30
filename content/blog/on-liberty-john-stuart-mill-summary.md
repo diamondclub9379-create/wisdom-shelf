@@ -1,6 +1,7 @@
 ---
 title: "On Liberty by John Stuart Mill: Summary & Why Free Speech Matters"
 description: "A summary of John Stuart Mill's On Liberty — the most important defense of individual freedom ever written. Key arguments on free speech, individuality, and limits of power."
+featuredImage: "/images/blog/on-liberty-john-stuart-mill-summary.png"
 date: 2026-02-04
 categories:
   - Philosophy

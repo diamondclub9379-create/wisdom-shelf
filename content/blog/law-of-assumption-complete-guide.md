@@ -1,6 +1,7 @@
 ---
 title: "The Law of Assumption Explained: A Complete Guide"
 description: "Everything you need to know about Neville Goddard's Law of Assumption — what it is, how it works, and how to practice it with step-by-step instructions."
+featuredImage: "/images/blog/law-of-assumption-complete-guide.png"
 date: 2026-03-20
 categories:
   - Self-Help

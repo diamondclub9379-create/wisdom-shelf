@@ -1,6 +1,7 @@
 ---
 title: "Meditations by Marcus Aurelius: Summary & 10 Timeless Lessons"
 description: "A comprehensive summary of Meditations by Marcus Aurelius — the Roman Emperor's private journal on Stoic philosophy, self-discipline, and inner peace. Free PDF download."
+featuredImage: "/images/blog/meditations-marcus-aurelius-summary.png"
 date: 2026-03-27
 categories:
   - Philosophy

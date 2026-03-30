@@ -1,6 +1,7 @@
 ---
 title: "The Art of War by Sun Tzu: Summary & Lessons for Modern Life"
 description: "A practical summary of Sun Tzu's The Art of War with lessons for business, leadership, and personal strategy. Timeless wisdom from 2,500 years ago."
+featuredImage: "/images/blog/art-of-war-summary-modern-lessons.png"
 date: 2026-03-08
 categories:
   - Strategy

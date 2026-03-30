@@ -1,6 +1,7 @@
 ---
 title: "The Wealth of Nations by Adam Smith: Summary & Key Ideas"
 description: "A clear summary of Adam Smith's The Wealth of Nations — the book that invented modern economics. Key concepts explained for modern readers."
+featuredImage: "/images/blog/wealth-of-nations-summary.png"
 date: 2026-02-18
 categories:
   - Economics

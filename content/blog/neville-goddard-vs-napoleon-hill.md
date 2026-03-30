@@ -1,6 +1,7 @@
 ---
 title: "Neville Goddard vs Napoleon Hill: Two Different Paths to Success"
 description: "Compare the philosophies of Neville Goddard and Napoleon Hill — two of the greatest success teachers ever. Which approach works best for you?"
+featuredImage: "/images/blog/neville-goddard-vs-napoleon-hill.png"
 date: 2026-03-22
 categories:
   - Self-Help

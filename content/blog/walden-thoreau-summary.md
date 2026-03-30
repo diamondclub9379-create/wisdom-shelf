@@ -1,6 +1,7 @@
 ---
 title: "Walden by Thoreau: Summary & Lessons on Simple Living"
 description: "A summary of Henry David Thoreau's Walden — the classic on simple living, self-sufficiency, and finding meaning beyond materialism. Free PDF download."
+featuredImage: "/images/blog/walden-thoreau-summary.png"
 date: 2026-02-26
 categories:
   - Philosophy

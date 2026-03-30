@@ -1,6 +1,7 @@
 ---
 title: "10 Best Public Domain Self-Help Books You Can Read for Free"
 description: "Discover the greatest self-help books ever written — all in the public domain and free to download. From James Allen to Neville Goddard, these classics still transform lives today."
+featuredImage: "/images/blog/best-public-domain-self-help-books.png"
 date: 2026-03-25
 categories:
   - Self-Help

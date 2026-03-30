@@ -1,6 +1,7 @@
 ---
 title: "Plato's Republic: Summary & Key Ideas That Still Shape Our World"
 description: "A clear summary of Plato's Republic — the foundational text of Western philosophy. Key ideas on justice, education, and the ideal society explained for modern readers."
+featuredImage: "/images/blog/plato-republic-summary.png"
 date: 2026-02-12
 categories:
   - Philosophy

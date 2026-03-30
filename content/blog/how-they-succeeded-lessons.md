@@ -1,6 +1,7 @@
 ---
 title: "How They Succeeded: Timeless Success Lessons from America's Greatest Achievers"
 description: "Key lessons from Orison Swett Marden's How They Succeeded — real interviews with self-made millionaires and leaders from the early 1900s."
+featuredImage: "/images/blog/how-they-succeeded-lessons.png"
 date: 2026-02-02
 categories:
   - Business

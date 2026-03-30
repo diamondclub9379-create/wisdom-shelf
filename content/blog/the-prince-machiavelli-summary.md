@@ -1,6 +1,7 @@
 ---
 title: "The Prince by Machiavelli: Summary & Lessons on Power"
 description: "A clear summary of Machiavelli's The Prince — the most controversial book on power and leadership ever written. Key lessons for modern leaders and strategists."
+featuredImage: "/images/blog/the-prince-machiavelli-summary.png"
 date: 2026-03-04
 categories:
   - Business

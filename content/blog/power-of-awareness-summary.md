@@ -1,6 +1,7 @@
 ---
 title: "The Power of Awareness: Complete Summary & Guide"
 description: "A comprehensive summary of Neville Goddard's The Power of Awareness — his masterpiece on how consciousness creates reality. Chapter-by-chapter breakdown."
+featuredImage: "/images/blog/power-of-awareness-summary.png"
 date: 2026-02-14
 categories:
   - Self-Help

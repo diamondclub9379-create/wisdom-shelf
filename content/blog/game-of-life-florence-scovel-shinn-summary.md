@@ -1,6 +1,7 @@
 ---
 title: "The Game of Life by Florence Scovel Shinn: Summary & Key Lessons"
 description: "A summary of Florence Scovel Shinn's The Game of Life and How to Play It — the classic guide to affirmations, spiritual laws, and winning at life."
+featuredImage: "/images/blog/game-of-life-florence-scovel-shinn-summary.png"
 date: 2026-03-10
 categories:
   - Self-Help

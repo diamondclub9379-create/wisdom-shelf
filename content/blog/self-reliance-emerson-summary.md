@@ -1,6 +1,7 @@
 ---
 title: "Self-Reliance by Emerson: Summary & Key Lessons for Independent Thinkers"
 description: "A detailed summary of Ralph Waldo Emerson's Self-Reliance — the ultimate essay on trusting yourself, nonconformity, and living authentically."
+featuredImage: "/images/blog/self-reliance-emerson-summary.png"
 date: 2026-03-02
 categories:
   - Philosophy
