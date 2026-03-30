@@ -1,0 +1,7 @@
+name = "Wisdom Shelf"
+license = "MIT"
+licenselink = "https://github.com/example/wisdomshelf/blob/main/LICENSE"
+description = "A clean, minimal theme for public domain ebook sites"
+
+[author]
+  name = "Wisdom Shelf"

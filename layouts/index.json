@@ -1,0 +1,5 @@
+{{- $books := slice -}}
+{{- range where .Site.RegularPages "Section" "ebooks" -}}
+  {{- $books = $books | append (dict "title" .Title "author" .Params.author "url" .RelPermalink "description" .Description "categories" .Params.categories) -}}
+{{- end -}}
+{{- $books | jsonify -}}

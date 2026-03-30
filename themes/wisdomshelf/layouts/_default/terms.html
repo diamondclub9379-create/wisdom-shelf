@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="section">
+  <h1 class="page-title">{{ .Title }}</h1>
+  <div class="category-grid">
+    {{ range .Pages }}
+    <a href="{{ .RelPermalink }}" class="category-card">
+      <h3>{{ .Title }}</h3>
+      {{ $count := len .Pages }}
+      <span class="count">{{ $count }} {{ if eq $count 1 }}book{{ else }}books{{ end }}</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

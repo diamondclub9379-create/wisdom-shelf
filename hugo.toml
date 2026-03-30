@@ -1,0 +1,53 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Wisdom Shelf — Free Classic Ebooks"
+theme = "wisdomshelf"
+
+[params]
+  description = "Download beautifully formatted classic ebooks for free. Self-help, philosophy, and business classics in PDF and EPUB."
+  author = "Wisdom Shelf"
+  adsenseId = ""  # Add your AdSense Publisher ID here: ca-pub-XXXXXXXXXXXXXXXX
+  ogImage = "/images/og-default.png"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[outputFormats.JSON]
+  mediaType = "application/json"
+  baseName = "index"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Self-Help"
+    url = "/categories/self-help/"
+    weight = 2
+  [[menu.main]]
+    name = "Philosophy"
+    url = "/categories/philosophy/"
+    weight = 3
+  [[menu.main]]
+    name = "Business"
+    url = "/categories/business/"
+    weight = 4
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5

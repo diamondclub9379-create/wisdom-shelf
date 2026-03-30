@@ -1,0 +1,95 @@
+{{ define "head" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "{{ .Title }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author }}"
+  },
+  "datePublished": "{{ .Params.year }}",
+  "description": "{{ .Description }}",
+  "inLanguage": "en",
+  "genre": [{{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}"{{ $cat }}"{{ end }}],
+  "isAccessibleForFree": true,
+  "url": "{{ .Permalink }}"
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+<article class="book-detail">
+  <div class="book-detail-grid">
+    <div class="book-detail-cover">
+      {{ with .Params.coverImage }}
+      <img src="{{ . }}" alt="{{ $.Title }} cover">
+      {{ else }}
+      <div class="book-cover-placeholder large">
+        <span class="cover-title">{{ .Title }}</span>
+        <span class="cover-author">{{ .Params.author }}</span>
+      </div>
+      {{ end }}
+    </div>
+    <div class="book-detail-info">
+      <h1>{{ .Title }}</h1>
+      <p class="book-meta">by <strong>{{ .Params.author }}</strong> {{ with .Params.year }}· {{ . }}{{ end }}</p>
+
+      <div class="book-tags">
+        {{ range .Params.categories }}
+        <a href="/categories/{{ . | urlize }}/" class="tag">{{ . }}</a>
+        {{ end }}
+        {{ range .Params.tags }}
+        <a href="/tags/{{ . | urlize }}/" class="tag tag-secondary">{{ . }}</a>
+        {{ end }}
+      </div>
+
+      {{ partial "adsense.html" $ }}
+
+      <div class="book-description">
+        {{ .Content }}
+      </div>
+
+      <div class="download-section">
+        <h2>Download Free</h2>
+        {{ partial "adsense.html" $ }}
+        <div class="download-buttons">
+          {{ with .Params.downloadPDF }}
+          <a href="{{ . }}" class="btn btn-primary" rel="nofollow noopener" target="_blank">
+            📄 Download PDF
+          </a>
+          {{ end }}
+          {{ with .Params.downloadEPUB }}
+          <a href="{{ . }}" class="btn btn-secondary" rel="nofollow noopener" target="_blank">
+            📱 Download EPUB
+          </a>
+          {{ end }}
+          {{ with .Params.downloadKindle }}
+          <a href="{{ . }}" class="btn btn-outline" rel="nofollow noopener" target="_blank">
+            📖 Kindle Format
+          </a>
+          {{ end }}
+          {{ with .Params.gutenbergURL }}
+          <a href="{{ . }}" class="btn btn-outline" rel="nofollow noopener" target="_blank">
+            🌐 View on Project Gutenberg
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {{ partial "adsense.html" $ }}
+
+  <section class="related-books">
+    <h2>You May Also Like</h2>
+    <div class="book-grid">
+      {{ $currentCategories := .Params.categories }}
+      {{ $currentPage := . }}
+      {{ range first 4 (where (where .Site.RegularPages "Section" "ebooks") ".Permalink" "ne" $currentPage.Permalink) }}
+      {{ partial "book-card.html" . }}
+      {{ end }}
+    </div>
+  </section>
+</article>
+{{ end }}

@@ -1,0 +1,19 @@
+<article class="book-card">
+  <a href="{{ .RelPermalink }}" class="book-card-link">
+    <div class="book-cover">
+      {{ with .Params.coverImage }}
+      <img src="{{ . }}" alt="{{ $.Title }} cover" loading="lazy">
+      {{ else }}
+      <div class="book-cover-placeholder">
+        <span class="cover-title">{{ .Title }}</span>
+        <span class="cover-author">{{ .Params.author }}</span>
+      </div>
+      {{ end }}
+    </div>
+    <div class="book-info">
+      <h3 class="book-title">{{ .Title }}</h3>
+      <p class="book-author">{{ .Params.author }}</p>
+      {{ with .Params.year }}<span class="book-year">{{ . }}</span>{{ end }}
+    </div>
+  </a>
+</article>

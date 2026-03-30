@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="section">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+
+  {{ partial "adsense.html" . }}
+
+  <div class="book-grid">
+    {{ range .Pages }}
+    {{ partial "book-card.html" . }}
+    {{ end }}
+  </div>
+
+  {{ partial "adsense.html" . }}
+</section>
+{{ end }}

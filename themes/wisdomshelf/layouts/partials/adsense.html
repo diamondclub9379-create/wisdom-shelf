@@ -1,0 +1,16 @@
+{{ with .Site.Params.adsenseId }}
+<div class="ad-slot">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ . }}"
+       data-ad-slot=""
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{{ else }}
+<!-- Ad Placeholder: Add your AdSense ID in hugo.toml -->
+<div class="ad-slot ad-placeholder">
+  <span>Advertisement</span>
+</div>
+{{ end }}

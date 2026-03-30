@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="section">
+  <h1 class="page-title">All Ebooks</h1>
+  <p class="page-description">Browse our complete collection of free, beautifully formatted public domain classic ebooks.</p>
+
+  <div class="search-box" style="margin-bottom: 2rem;">
+    <input type="text" id="searchInput" placeholder="Search books by title or author..." aria-label="Search books">
+  </div>
+
+  {{ partial "adsense.html" . }}
+
+  <div class="book-grid" id="bookGrid">
+    {{ range .Pages.ByWeight }}
+    {{ partial "book-card.html" . }}
+    {{ end }}
+  </div>
+
+  {{ partial "adsense.html" . }}
+</section>
+{{ end }}
