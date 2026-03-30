@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://wisdom-shelf-ebooks.netlify.app/"
 languageCode = "en-us"
 title = "Wisdom Shelf — Free Classic Ebooks"
 theme = "wisdomshelf"
