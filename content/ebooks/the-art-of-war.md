@@ -3,6 +3,7 @@ title: "The Art of War"
 author: "Sun Tzu"
 year: -500
 description: "Download 'The Art of War' by Sun Tzu — the world's most influential strategy book, essential for business leaders, entrepreneurs, and competitors. Free PDF and EPUB."
+coverImage: "/images/covers/the-art-of-war.png"
 categories:
   - Business
   - Philosophy
@@ -13,8 +14,8 @@ tags:
   - competition
 gutenbergId: "132"
 gutenbergURL: "https://www.gutenberg.org/ebooks/132"
-downloadPDF: "https://www.gutenberg.org/files/132/132-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/132.epub3.images"
+downloadPDF: "/downloads/pdf/the-art-of-war.pdf"
+downloadEPUB: "/downloads/epub/the-art-of-war.epub"
 weight: 12
 ---
 

@@ -3,6 +3,7 @@ title: "Self-Reliance and Other Essays"
 author: "Ralph Waldo Emerson"
 year: 1841
 description: "Download 'Self-Reliance' by Ralph Waldo Emerson — the most powerful essay on individualism, nonconformity, and trusting yourself ever written. Free PDF and EPUB."
+coverImage: "/images/covers/self-reliance.png"
 categories:
   - Self-Help
   - Philosophy
@@ -13,8 +14,8 @@ tags:
   - independence
 gutenbergId: "16643"
 gutenbergURL: "https://www.gutenberg.org/ebooks/16643"
-downloadPDF: "https://www.gutenberg.org/files/16643/16643-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/16643.epub3.images"
+downloadPDF: "/downloads/pdf/self-reliance.pdf"
+downloadEPUB: "/downloads/epub/self-reliance.epub"
 weight: 11
 ---
 

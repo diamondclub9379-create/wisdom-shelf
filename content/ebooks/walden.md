@@ -3,6 +3,7 @@ title: "Walden"
 author: "Henry David Thoreau"
 year: 1854
 description: "Download 'Walden' by Henry David Thoreau — the classic guide to simple living, self-sufficiency, and finding meaning beyond materialism. Free PDF and EPUB."
+coverImage: "/images/covers/walden.png"
 categories:
   - Philosophy
   - Self-Help
@@ -13,8 +14,8 @@ tags:
   - transcendentalism
 gutenbergId: "205"
 gutenbergURL: "https://www.gutenberg.org/ebooks/205"
-downloadPDF: "https://www.gutenberg.org/files/205/205-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/205.epub3.images"
+downloadPDF: "/downloads/pdf/walden.pdf"
+downloadEPUB: "/downloads/epub/walden.epub"
 weight: 14
 ---
 

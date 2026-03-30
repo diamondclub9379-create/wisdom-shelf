@@ -3,6 +3,7 @@ title: "Discourse on the Method"
 author: "René Descartes"
 year: 1637
 description: "Download 'Discourse on the Method' by René Descartes — the book that launched modern philosophy with 'I think, therefore I am.' Free PDF and EPUB."
+coverImage: "/images/covers/discourse-on-method.png"
 categories:
   - Philosophy
 tags:
@@ -12,8 +13,8 @@ tags:
   - epistemology
 gutenbergId: "59"
 gutenbergURL: "https://www.gutenberg.org/ebooks/59"
-downloadPDF: "https://www.gutenberg.org/files/59/59-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/59.epub3.images"
+downloadPDF: "/downloads/pdf/discourse-on-method.pdf"
+downloadEPUB: "/downloads/epub/discourse-on-method.epub"
 weight: 19
 ---
 

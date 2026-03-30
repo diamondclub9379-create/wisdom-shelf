@@ -3,6 +3,7 @@ title: "The Enchiridion (Handbook of Epictetus)"
 author: "Epictetus"
 year: 135
 description: "Download 'The Enchiridion' by Epictetus — the ultimate Stoic handbook for emotional resilience, self-discipline, and mental freedom. Free PDF and EPUB."
+coverImage: "/images/covers/the-enchiridion.png"
 categories:
   - Philosophy
   - Self-Help
@@ -13,8 +14,8 @@ tags:
   - ancient rome
 gutenbergId: "45109"
 gutenbergURL: "https://www.gutenberg.org/ebooks/45109"
-downloadPDF: "https://www.gutenberg.org/files/45109/45109-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/45109.epub3.images"
+downloadPDF: "/downloads/pdf/the-enchiridion.pdf"
+downloadEPUB: "/downloads/epub/the-enchiridion.epub"
 weight: 18
 ---
 

@@ -3,6 +3,7 @@ title: "Autobiography of Benjamin Franklin"
 author: "Benjamin Franklin"
 year: 1791
 description: "Download the 'Autobiography of Benjamin Franklin' — the inspiring life story of America's greatest self-made man, inventor, and founding father. Free PDF and EPUB."
+coverImage: "/images/covers/autobiography-of-benjamin-franklin.png"
 categories:
   - Business
   - Self-Help
@@ -13,8 +14,8 @@ tags:
   - founding fathers
 gutenbergId: "20203"
 gutenbergURL: "https://www.gutenberg.org/ebooks/20203"
-downloadPDF: "https://www.gutenberg.org/files/20203/20203-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/20203.epub3.images"
+downloadPDF: "/downloads/pdf/autobiography-of-benjamin-franklin.pdf"
+downloadEPUB: "/downloads/epub/autobiography-of-benjamin-franklin.epub"
 weight: 5
 ---
 

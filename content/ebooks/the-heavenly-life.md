@@ -3,6 +3,7 @@ title: "The Heavenly Life"
 author: "James Allen"
 year: 1907
 description: "Download 'The Heavenly Life' by James Allen — a profound guide to living with divine purpose, inner purity, and spiritual fulfillment. Free PDF and EPUB."
+coverImage: "/images/covers/the-heavenly-life.png"
 categories:
   - Self-Help
 tags:

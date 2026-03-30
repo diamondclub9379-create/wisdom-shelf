@@ -55,23 +55,18 @@
         {{ partial "adsense.html" $ }}
         <div class="download-buttons">
           {{ with .Params.downloadPDF }}
-          <a href="{{ . }}" class="btn btn-primary" rel="nofollow noopener" target="_blank">
+          <a href="{{ . }}" class="btn btn-primary" download>
             📄 Download PDF
           </a>
           {{ end }}
           {{ with .Params.downloadEPUB }}
-          <a href="{{ . }}" class="btn btn-secondary" rel="nofollow noopener" target="_blank">
+          <a href="{{ . }}" class="btn btn-secondary" download>
             📱 Download EPUB
           </a>
           {{ end }}
           {{ with .Params.downloadKindle }}
           <a href="{{ . }}" class="btn btn-outline" rel="nofollow noopener" target="_blank">
             📖 Kindle Format
-          </a>
-          {{ end }}
-          {{ with .Params.gutenbergURL }}
-          <a href="{{ . }}" class="btn btn-outline" rel="nofollow noopener" target="_blank">
-            🌐 View on Project Gutenberg
           </a>
           {{ end }}
         </div>

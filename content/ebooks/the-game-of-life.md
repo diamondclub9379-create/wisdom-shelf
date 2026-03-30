@@ -3,6 +3,7 @@ title: "The Game of Life and How to Play It"
 author: "Florence Scovel Shinn"
 year: 1925
 description: "Download 'The Game of Life and How to Play It' by Florence Scovel Shinn — the classic guide to using affirmations and spiritual laws to create abundance. Free PDF and EPUB."
+coverImage: "/images/covers/the-game-of-life.png"
 categories:
   - Self-Help
 tags:
@@ -12,8 +13,8 @@ tags:
   - abundance
 gutenbergId: "69877"
 gutenbergURL: "https://www.gutenberg.org/ebooks/69877"
-downloadPDF: "https://www.gutenberg.org/files/69877/69877-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/69877.epub3.images"
+downloadPDF: "/downloads/pdf/the-game-of-life.pdf"
+downloadEPUB: "/downloads/epub/the-game-of-life.epub"
 weight: 20
 ---
 

@@ -3,6 +3,7 @@ title: "The Republic"
 author: "Plato"
 year: -375
 description: "Download 'The Republic' by Plato — the most influential work of Western philosophy on justice, government, and the ideal society. Free PDF and EPUB."
+coverImage: "/images/covers/the-republic.png"
 categories:
   - Philosophy
 tags:
@@ -12,8 +13,8 @@ tags:
   - government
 gutenbergId: "1497"
 gutenbergURL: "https://www.gutenberg.org/ebooks/1497"
-downloadPDF: "https://www.gutenberg.org/files/1497/1497-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/1497.epub3.images"
+downloadPDF: "/downloads/pdf/the-republic.pdf"
+downloadEPUB: "/downloads/epub/the-republic.epub"
 weight: 15
 ---
 

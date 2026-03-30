@@ -3,6 +3,7 @@ title: "The Analects"
 author: "Confucius"
 year: -479
 description: "Download 'The Analects' by Confucius — the most influential book in East Asian history on ethics, leadership, and living a virtuous life. Free PDF and EPUB."
+coverImage: "/images/covers/the-analects.png"
 categories:
   - Philosophy
 tags:
@@ -12,8 +13,8 @@ tags:
   - ancient china
 gutenbergId: "3330"
 gutenbergURL: "https://www.gutenberg.org/ebooks/3330"
-downloadPDF: "https://www.gutenberg.org/files/3330/3330-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/3330.epub3.images"
+downloadPDF: "/downloads/pdf/the-analects.pdf"
+downloadEPUB: "/downloads/epub/the-analects.epub"
 weight: 17
 ---
 

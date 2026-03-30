@@ -3,6 +3,7 @@ title: "How They Succeeded"
 author: "Orison Swett Marden"
 year: 1901
 description: "Download 'How They Succeeded' by Orison Swett Marden — real success stories and interviews with America's greatest achievers. Free PDF and EPUB."
+coverImage: "/images/covers/how-they-succeeded.png"
 categories:
   - Self-Help
   - Business
@@ -13,8 +14,8 @@ tags:
   - interviews
 gutenbergId: "21291"
 gutenbergURL: "https://www.gutenberg.org/ebooks/21291"
-downloadPDF: "https://www.gutenberg.org/files/21291/21291-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/21291.epub3.images"
+downloadPDF: "/downloads/pdf/how-they-succeeded.pdf"
+downloadEPUB: "/downloads/epub/how-they-succeeded.epub"
 weight: 8
 ---
 

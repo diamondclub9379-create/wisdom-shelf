@@ -1,0 +1,25 @@
+{
+  "name": "ebooks-site",
+  "version": "1.0.0",
+  "description": "A static website offering beautifully formatted public domain ebooks for free download, monetized with Google AdSense.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diamondclub9379-create/wisdom-shelf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/diamondclub9379-create/wisdom-shelf/issues"
+  },
+  "homepage": "https://github.com/diamondclub9379-create/wisdom-shelf#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "canvas": "^3.2.2"
+  }
+}

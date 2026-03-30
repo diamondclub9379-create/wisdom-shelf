@@ -3,6 +3,7 @@ title: "As a Man Thinketh"
 author: "James Allen"
 year: 1903
 description: "Download 'As a Man Thinketh' by James Allen — a timeless self-help classic about the power of thought to shape character, circumstances, and destiny. Free PDF and EPUB."
+coverImage: "/images/covers/as-a-man-thinketh.png"
 categories:
   - Self-Help
 tags:
@@ -12,8 +13,8 @@ tags:
   - classic
 gutenbergId: "4507"
 gutenbergURL: "https://www.gutenberg.org/ebooks/4507"
-downloadPDF: "https://www.gutenberg.org/files/4507/4507-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/4507.epub3.images"
+downloadPDF: "/downloads/pdf/as-a-man-thinketh.pdf"
+downloadEPUB: "/downloads/epub/as-a-man-thinketh.epub"
 weight: 1
 ---
 

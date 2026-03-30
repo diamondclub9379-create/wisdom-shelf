@@ -3,6 +3,7 @@ title: "The Prince"
 author: "Niccolò Machiavelli"
 year: 1532
 description: "Download 'The Prince' by Niccolò Machiavelli — the most influential political strategy book ever written, essential reading for leaders and entrepreneurs. Free PDF and EPUB."
+coverImage: "/images/covers/the-prince.png"
 categories:
   - Business
   - Philosophy
@@ -13,8 +14,8 @@ tags:
   - power
 gutenbergId: "1232"
 gutenbergURL: "https://www.gutenberg.org/ebooks/1232"
-downloadPDF: "https://www.gutenberg.org/files/1232/1232-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/1232.epub3.images"
+downloadPDF: "/downloads/pdf/the-prince.pdf"
+downloadEPUB: "/downloads/epub/the-prince.epub"
 weight: 4
 ---
 

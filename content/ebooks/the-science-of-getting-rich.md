@@ -3,6 +3,7 @@ title: "The Science of Getting Rich"
 author: "Wallace D. Wattles"
 year: 1910
 description: "Download 'The Science of Getting Rich' by Wallace D. Wattles — the original wealth manifestation guide that inspired 'The Secret'. Free PDF and EPUB."
+coverImage: "/images/covers/the-science-of-getting-rich.png"
 categories:
   - Self-Help
   - Business
@@ -13,8 +14,8 @@ tags:
   - law of attraction
 gutenbergId: "59844"
 gutenbergURL: "https://www.gutenberg.org/ebooks/59844"
-downloadPDF: "https://www.gutenberg.org/files/59844/59844-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/59844.epub3.images"
+downloadPDF: "/downloads/pdf/the-science-of-getting-rich.pdf"
+downloadEPUB: "/downloads/epub/the-science-of-getting-rich.epub"
 weight: 2
 ---
 

@@ -3,6 +3,7 @@ title: "The Way of Peace"
 author: "James Allen"
 year: 1907
 description: "Download 'The Way of Peace' by James Allen — a spiritual guide to finding inner calm, overcoming anxiety, and living with serenity. Free PDF and EPUB."
+coverImage: "/images/covers/the-way-of-peace.png"
 categories:
   - Self-Help
 tags:
@@ -12,8 +13,8 @@ tags:
   - mindfulness
 gutenbergId: "10740"
 gutenbergURL: "https://www.gutenberg.org/ebooks/10740"
-downloadPDF: "https://www.gutenberg.org/files/10740/10740-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/10740.epub3.images"
+downloadPDF: "/downloads/pdf/the-way-of-peace.pdf"
+downloadEPUB: "/downloads/epub/the-way-of-peace.epub"
 weight: 6
 ---
 

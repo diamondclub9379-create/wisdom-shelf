@@ -3,6 +3,7 @@ title: "Meditations"
 author: "Marcus Aurelius"
 year: 180
 description: "Download 'Meditations' by Marcus Aurelius — the personal journal of a Roman Emperor and the greatest Stoic philosophy text ever written. Free PDF and EPUB."
+coverImage: "/images/covers/meditations.png"
 categories:
   - Philosophy
 tags:
@@ -12,8 +13,8 @@ tags:
   - self-discipline
 gutenbergId: "2680"
 gutenbergURL: "https://www.gutenberg.org/ebooks/2680"
-downloadPDF: "https://www.gutenberg.org/files/2680/2680-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/2680.epub3.images"
+downloadPDF: "/downloads/pdf/meditations.pdf"
+downloadEPUB: "/downloads/epub/meditations.epub"
 weight: 3
 ---
 

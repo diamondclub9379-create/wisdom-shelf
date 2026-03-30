@@ -3,6 +3,7 @@ title: "The Wealth of Nations"
 author: "Adam Smith"
 year: 1776
 description: "Download 'The Wealth of Nations' by Adam Smith — the foundational text of modern economics and free-market capitalism. Free PDF and EPUB."
+coverImage: "/images/covers/the-wealth-of-nations.png"
 categories:
   - Business
   - Philosophy
@@ -13,8 +14,8 @@ tags:
   - political economy
 gutenbergId: "3300"
 gutenbergURL: "https://www.gutenberg.org/ebooks/3300"
-downloadPDF: "https://www.gutenberg.org/files/3300/3300-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/3300.epub3.images"
+downloadPDF: "/downloads/pdf/the-wealth-of-nations.pdf"
+downloadEPUB: "/downloads/epub/the-wealth-of-nations.epub"
 weight: 13
 ---
 

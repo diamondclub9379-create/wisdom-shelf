@@ -3,6 +3,7 @@ title: "The Law of Success"
 author: "Napoleon Hill"
 year: 1928
 description: "Download 'The Law of Success' by Napoleon Hill — the original masterwork on achievement that preceded Think and Grow Rich. Free PDF and EPUB."
+coverImage: "/images/covers/think-and-grow-rich.png"
 categories:
   - Self-Help
   - Business
@@ -13,8 +14,8 @@ tags:
   - goal setting
 gutenbergId: "71421"
 gutenbergURL: "https://www.gutenberg.org/ebooks/71421"
-downloadPDF: "https://www.gutenberg.org/files/71421/71421-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/71421.epub3.images"
+downloadPDF: "/downloads/pdf/think-and-grow-rich.pdf"
+downloadEPUB: "/downloads/epub/think-and-grow-rich.epub"
 weight: 10
 ---
 

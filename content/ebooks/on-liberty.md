@@ -3,6 +3,7 @@ title: "On Liberty"
 author: "John Stuart Mill"
 year: 1859
 description: "Download 'On Liberty' by John Stuart Mill — the definitive argument for individual freedom, free speech, and limited government. Free PDF and EPUB."
+coverImage: "/images/covers/on-liberty.png"
 categories:
   - Philosophy
 tags:
@@ -12,8 +13,8 @@ tags:
   - political philosophy
 gutenbergId: "34901"
 gutenbergURL: "https://www.gutenberg.org/ebooks/34901"
-downloadPDF: "https://www.gutenberg.org/files/34901/34901-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/34901.epub3.images"
+downloadPDF: "/downloads/pdf/on-liberty.pdf"
+downloadEPUB: "/downloads/epub/on-liberty.epub"
 weight: 16
 ---
 

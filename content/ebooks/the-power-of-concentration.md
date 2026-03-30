@@ -3,6 +3,7 @@ title: "The Power of Concentration"
 author: "Theron Q. Dumont"
 year: 1918
 description: "Download 'The Power of Concentration' by Theron Q. Dumont — a practical guide to developing laser focus, willpower, and mental discipline. Free PDF and EPUB."
+coverImage: "/images/covers/the-power-of-concentration.png"
 categories:
   - Self-Help
 tags:
@@ -12,8 +13,8 @@ tags:
   - mental training
 gutenbergId: "7352"
 gutenbergURL: "https://www.gutenberg.org/ebooks/7352"
-downloadPDF: "https://www.gutenberg.org/files/7352/7352-pdf.pdf"
-downloadEPUB: "https://www.gutenberg.org/ebooks/7352.epub3.images"
+downloadPDF: "/downloads/pdf/the-power-of-concentration.pdf"
+downloadEPUB: "/downloads/epub/the-power-of-concentration.epub"
 weight: 9
 ---
 
