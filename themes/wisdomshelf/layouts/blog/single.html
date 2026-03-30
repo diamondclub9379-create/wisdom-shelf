@@ -1,0 +1,94 @@
+{{ define "head" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "author": {
+    "@type": "Organization",
+    "name": "Wisdom Shelf"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wisdom Shelf"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+<article class="blog-post">
+  <header class="blog-post-header">
+    <div class="blog-post-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      {{ range .Params.categories }}
+      · <a href="/categories/{{ . | urlize }}/" class="tag">{{ . }}</a>
+      {{ end }}
+    </div>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}
+    <p class="blog-post-subtitle">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  {{ partial "adsense.html" $ }}
+
+  <div class="blog-post-content">
+    {{ .Content }}
+  </div>
+
+  {{ partial "adsense.html" $ }}
+
+  <div class="blog-post-tags">
+    {{ range .Params.tags }}
+    <a href="/tags/{{ . | urlize }}/" class="tag tag-secondary">{{ . }}</a>
+    {{ end }}
+  </div>
+
+  <!-- Related Books -->
+  {{ with .Params.relatedBooks }}
+  <div class="blog-related-books">
+    <h2>Books Mentioned in This Article</h2>
+    <div class="book-grid">
+      {{ range . }}
+      {{ $book := site.GetPage (printf "/ebooks/%s" .) }}
+      {{ with $book }}
+      {{ partial "book-card.html" . }}
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  {{ partial "adsense.html" $ }}
+
+  <!-- More Articles -->
+  <div class="blog-more-articles">
+    <h2>More Articles</h2>
+    <div class="blog-grid">
+      {{ $currentPage := . }}
+      {{ range first 3 (where (where .Site.RegularPages "Section" "blog") ".Permalink" "ne" $currentPage.Permalink) }}
+      <article class="blog-card">
+        <a href="{{ .Permalink }}" class="blog-card-link">
+          <div class="blog-card-content">
+            <div class="blog-card-meta">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            </div>
+            <h2 class="blog-card-title">{{ .Title }}</h2>
+            <p class="blog-card-excerpt">{{ .Description }}</p>
+            <span class="blog-read-more">Read more &rarr;</span>
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</article>
+{{ end }}

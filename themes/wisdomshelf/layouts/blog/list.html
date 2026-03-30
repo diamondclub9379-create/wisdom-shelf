@@ -1,0 +1,35 @@
+{{ define "main" }}
+<section class="section">
+  <h1 class="page-title">Blog</h1>
+  <p class="page-description">Insights, summaries, and practical wisdom from the greatest classic books ever written.</p>
+
+  {{ partial "adsense.html" . }}
+
+  <div class="blog-grid">
+    {{ range .Pages.ByDate.Reverse }}
+    <article class="blog-card">
+      <a href="{{ .Permalink }}" class="blog-card-link">
+        {{ with .Params.featuredImage }}
+        <div class="blog-card-image">
+          <img src="{{ . }}" alt="{{ $.Title }}">
+        </div>
+        {{ end }}
+        <div class="blog-card-content">
+          <div class="blog-card-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            {{ with .Params.categories }}
+            · <span>{{ index . 0 }}</span>
+            {{ end }}
+          </div>
+          <h2 class="blog-card-title">{{ .Title }}</h2>
+          <p class="blog-card-excerpt">{{ .Description }}</p>
+          <span class="blog-read-more">Read more &rarr;</span>
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+
+  {{ partial "adsense.html" . }}
+</section>
+{{ end }}

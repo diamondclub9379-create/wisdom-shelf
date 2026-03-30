@@ -48,6 +48,10 @@ theme = "wisdomshelf"
     url = "/categories/business/"
     weight = 4
   [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 5
+    weight = 6
